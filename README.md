@@ -12,3 +12,5 @@ Rotate left  : A
 Rotate right : D
 Thrust: Space
 Try to get to the landing pad! (only white pads are safe)
+
+![Alt text](/Screenshot1.png?raw=true "Screenshot1")
